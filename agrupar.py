@@ -40,21 +40,33 @@ preprocessador = ColumnTransformer(
 
 db_full = preprocessador.fit_transform(db)
 
-gmm = GaussianMixture(n_components=5, covariance_type='spherical', random_state=42)
-gmm.fit(db_full)
-grupos = gmm.predict(db_full)
+
+
+lowest_bic = np.infty
+bic = []
+n_components_range = range(1, 10)
+for n_components in n_components_range:
+    gmm = GaussianMixture(n_components=n_components, covariance_type='spherical', random_state=42)
+    gmm.fit(db_full)
+    bic.append(gmm.bic(db_full))
+    if bic[-1] < lowest_bic:
+        lowest_bic = bic[-1]
+        best_gmm = gmm
+
+# O melhor número de componentes é escolhido com base no BIC
+grupos = best_gmm.predict(db_full)
 
 # Prever os grupos (clusters)
-aic = gmm.aic(db_full)
-bic = gmm.bic(db_full)
+aic = best_gmm.aic(db_full)
+bic = best_gmm.bic(db_full)
 print(f"AIC: {aic}, BIC: {bic}")
 
 # Avaliar o modelo usando o Silhouette Score (opcional)
 silhouette_avg = silhouette_score(db_full, grupos)
 print(f"Silhouette Score: {silhouette_avg}")
 
-log_likelihood = gmm.score(db_full)  # score retorna o log-likelihood
+log_likelihood = best_gmm.score(db_full)  # score retorna o log-likelihood
 print(f'Log-Likelihood: {log_likelihood}')
 
 joblib.dump(preprocessador, 'preprocessador.pkl')
-joblib.dump(gmm,'modelo_gmm.pkl')
+joblib.dump(best_gmm,'modelo_gmm.pkl')
