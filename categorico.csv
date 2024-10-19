@@ -1,0 +1,488 @@
+model,color,fuel_type,gear,motor,body_type
+Compass,Blanco,Nafta,Automática,2.4,SUV
+Compass,Gris oscuro,Nafta,Automática,2.4,SUV
+Corolla,Gris,Nafta,Manual,1.8,Sedán
+Compass,Negro,Nafta,Automática,1.3,SUV
+Sorento,Negro,Diésel,Automática,2.2,SUV
+Clase C,Plateado,Nafta,Automática,1.8,Sedán
+220,Blanco,Nafta,Automática,TURBO,Coupé
+T-Cross,Naranja,Nafta,Automática,1.6 MSI Nafta,SUV
+Clase A,Plateado,Nafta,Automática,3,Hatchback
+Clase A,Blanco,Nafta,Manual,1.6,Hatchback
+Polo,Blanco,Nafta,Manual,1.6,Hatchback
+Ecosport,Beige,Nafta,Manual,1.6,SUV
+Etios,Blanco,Nafta,Manual,1.5,Hatchback
+Clio,Gris,Nafta,Manual,1.2,Hatchback
+RAV4,Gris,Nafta,Automática,2.4,SUV
+Etios,Gris,Nafta,Manual,1.5,Sedán
+Cooper,Rojo,Nafta,Manual,1.6,Hatchback
+Renegade,Rojo,Nafta,Manual,1.8,SUV
+Hilux,Rojo,Diésel,Manual,2.8,Pick-Up
+Ecosport,Gris,Nafta,Manual,1.5,SUV
+Classic,Gris,Nafta,Manual,1.6,Hatchback
+Master,Blanco,Diésel,Manual,2.3,Hatchback
+Ranger,Blanco,Diésel,Manual,2.2,Pick-Up
+408,Gris oscuro,Nafta,Manual,2,Sedán
+CR-V,Blanco,Nafta,Automática,2,SUV
+Journey,Blanco,Nafta,Automática,2.4,Crossover
+Siena,Gris,Nafta,Manual,1.4,Sedán
+Tucson,Negro,Nafta,Manual,2,SUV
+HR-V,Rojo,Nafta,Automática,1.8,SUV
+Linea,Plateado,Nafta,Manual,1.8,Sedán
+Onix,Gris,Nafta,Manual,1.4,Hatchback
+408,Blanco,Nafta,Manual,1.6,Sedán
+Equinox,Plateado,Nafta,Automática,1.5,SUV
+308,Blanco,Nafta,Automática,1.6,Hatchback
+A1,Blanco,Nafta,Automática,1.4,Hatchback
+Aircross,Plateado,Nafta/GNC,Automática,1.6,Hatchback
+408,Gris,Nafta,Manual,2.0,Sedán
+308,Blanco,Nafta,Manual,1.6,Hatchback
+Kuga,Blanco,Nafta,Manual,2.5,SUV
+Corolla Cross,Rojo,Híbrido/Nafta,Automática,1.8,SUV
+Grand Cherokee,Blanco,Nafta,Automática,3.6,SUV
+Palio,Blanco,Nafta,Manual,1.4,Hatchback
+Camry,Gris,Nafta,Automática,3.5,Sedán
+208,Negro,Nafta,Manual,1.6,Sedán
+Corolla,Gris,Nafta,Manual,1.8,Sedán
+Clase E,Blanco,Nafta,Automática,2.1,Sedán
+Clase E,Gris,Nafta,Automática,3,Sedán
+Up!,Blanco,Nafta,Automática,1.0,Hatchback
+C3,Azul,Nafta,Manual,1.6,Hatchback
+Tiida,Dorado,Nafta,Manual,1.8,Hatchback
+C4 Cactus,Blanco,Nafta,Automática,1.2,SUV
+208,Gris,Nafta,Manual,1.6,Hatchback
+C3,Plateado,Nafta,Manual,1.6,Hatchback
+C3,Gris,Nafta,Manual,1.5,Hatchback
+Compass,Gris,Nafta,Automática,2.4,SUV
+Focus III,Azul,Nafta,Manual,1.6,Hatchback
+308,Gris,Nafta,Manual,1.6,Hatchback
+SW4,Blanco,Diésel,Automática,2.8,SUV
+Toro,Negro,Diésel,Manual,2.0,Pick-Up
+Etios,Gris,Nafta,Manual,1.5,Sedán
+C4 Lounge,Blanco,Nafta,Automática,1.6,Sedán
+208,Blanco,Nafta,Manual,1.6,Hatchback
+Punto,Blanco,Nafta,Manual,1.4,Hatchback
+Kicks,Gris,Nafta,Manual,1.6,Hatchback
+Duster Oroch,Blanco,Nafta,Manual,1.6,SUV
+Vento,Blanco,Nafta,Manual,2.0,Sedán
+208,Rojo,Nafta,Manual,1.6,Hatchback
+Compass,Negro,Nafta,Manual,2.4,SUV
+Kwid,Naranja,Nafta,Manual,1.0,Hatchback
+Ecosport,Negro,Nafta,Manual,1.6,SUV
+Ka,Blanco,Nafta/GNC,Manual,1.5,Sedán
+Spin,Gris,Nafta,Automática,1.8,Monovolumen
+Argo,Blanco,Nafta,Manual,1.3,Hatchback
+Spin,Blanco,Nafta,Manual,1.8,Monovolumen
+208,Plateado,Nafta,Manual,1.6,Hatchback
+208,Gris,Nafta,Manual,1.6,Hatchback
+Focus III,Gris,Nafta,Manual,2.0,Hatchback
+C3,Gris,Nafta,Manual,1.5,Hatchback
+Hilux,Gris,Diésel,Automática,2.8,Pick-Up
+Focus II,Dorado,Nafta,Manual,2.0,Hatchback
+2008,Marrón,Nafta,Automática,1.6,SUV
+Onix,Blanco,Nafta,Manual,1.4,Hatchback
+Focus III,Gris,Nafta,Automática,2.0,Sedán
+208,Negro,Nafta,Manual,1.5,Hatchback
+Onix,Blanco,Nafta,Automática,1.4,Hatchback
+Yaris,Blanco,Nafta,Automática,1.5,Hatchback
+1500,Gris,Nafta,Automática,5.7,Pick-Up
+Nivus,Blanco,Nafta,Automática,1.0,SUV
+Sandero,Gris,Nafta,Manual,1.6,Hatchback
+Duster Oroch,Negro,Nafta,Manual,2.0,SUV
+Sandero,Negro,Nafta,Manual,1.6,Hatchback
+Gol Trend,Plateado,Nafta,Manual,1.6,Hatchback
+C4 Lounge,Plateado,Nafta,Automática,1.6,Sedán
+Vento,Plateado,Nafta,Manual,2.0,Sedán
+Up!,Blanco,Nafta,Manual,1.0,Hatchback
+Duster Oroch,Blanco,Nafta,Manual,1.6,SUV
+Focus III,Plateado,Nafta,Manual,2.0,Sedán
+HR-V,Plateado,Nafta,Automática,1.8,SUV
+Gol,Negro,Nafta,Manual,1.4,Hatchback
+Clio,Blanco,Nafta,Manual,1.2,Hatchback
+Renegade,Gris,Nafta,Manual,1.8,SUV
+2008,Gris,Nafta,Manual,1.6,SUV
+H1,Gris,Diésel,Automática,2.5,Monovolumen
+Vento,Gris,Nafta,Manual,2.0,Sedán
+CR-V,Negro,Nafta,Automática,2.4,SUV
+Palio,Marrón,Nafta,Manual,1.6,Rural
+Ranger,Gris,Diésel,Automática,3.2,Pick-Up
+Cruze,Azul,Nafta,Automática,1.8,Hatchback
+2008,Blanco,Nafta,Manual,1.6,SUV
+Amarok,Negro,Diésel,Automática,2.0,Pick-Up
+408,Plateado,Diésel,Manual,1.6,Sedán
+Hilux,Gris,Diésel,Automática,2.8,Pick-Up
+408,Plateado,Diésel,Manual,1.6,Sedán
+408,Gris,Diésel,Manual,1.6,Sedán
+Civic,Gris,Nafta,Automática,1.5,Hatchback
+Civic,Gris,Nafta,Automática,1.5,Hatchback
+Golf,Plateado,Nafta,Automática,1.4,Hatchback
+Sandero,Negro,Nafta,Manual,1.6,Hatchback
+Uno,Blanco,Nafta,Manual,1.4,Hatchback
+408,Gris,Diésel,Manual,1.6,Sedán
+Sandero,Rojo,Nafta,Manual,1.6,Hatchback
+Amarok,Negro,Diésel,Automática,2.0,Pick-Up
+Polo,Gris,Nafta,Automática,1.6,Hatchback
+Jumper,Blanco,Diésel,Manual,2.3,Furgón
+Serie M,Gris,Nafta,Automática,3.0,Coupé
+Logan,Dorado,Nafta,Manual,1.6,Sedán
+Palio,Gris,Nafta,Manual,1.4,Hatchback
+Focus II,Gris,Nafta,Manual,2.0,Sedán
+Clio,Gris,Nafta,Manual,1.2,Hatchback
+207,Gris,Diésel,Manual,1.4,Hatchback
+Cruze II,Plateado,Nafta,Manual,1.4,Sedán
+Up!,Plateado,Nafta,Manual,1.0,Hatchback
+Amarok,Gris,Diésel,Manual,2.0,Pick-Up
+Aveo,Blanco,Nafta,Manual,1.6,Sedán
+Up!,Plateado,Nafta,Manual,1.0,Hatchback
+Captur,Plateado,Nafta,Manual,2.0,SUV
+Polo,Gris,Nafta,Automática,1.6,Hatchback
+Celta,Rojo,Nafta,Manual,1.4,Hatchback
+Gol Trend,Azul,Nafta,Manual,1.6,Hatchback
+Gol Trend,Blanco,Nafta,Manual,1.6,Hatchback
+Ecosport,Blanco,Nafta,Manual,1.6,SUV
+Passat,Blanco,Nafta,Automática,2.0,Sedán
+Polo,Azul,Nafta,Automática,1.6,Hatchback
+Prisma,Plateado,Nafta,Automática,1.4,Sedán
+208,Gris,Nafta,Manual,1.5,Hatchback
+2008,Gris,Nafta,Manual,1.6,SUV
+Versa,Blanco,Nafta,Automática,1.6,Sedán
+Golf,Gris,Nafta,Automática,1.4,Hatchback
+Renegade,Verde,Nafta,Automática,1.8,SUV
+Focus III,Gris,Nafta,Manual,2.0,Hatchback
+Ranger,Gris,Diésel,Automática,3.2,Pick-Up
+Ranger,Blanco,Diésel,Automática,3.2,Pick-Up
+Mondeo,Gris,Nafta,Automática,2.0,Sedán
+Fiorino,Blanco,Nafta,Manual,1.4,Furgón
+Qubo,Rojo,Nafta/GNC,Manual,1.4,Monovolumen
+Q5,Blanco,Nafta,Automática,2.0,SUV
+Cruze,Gris,Nafta,Automática,1.8,Sedán
+X55,Negro,Nafta,Manual,1.5,SUV
+Corolla,Blanco,Nafta,Manual,1.8,Sedán
+Hilux,Blanco,Diésel,Automática,TOYOTA 2.8,Pick-Up
+Classic,Plateado,Nafta/GNC,Manual,1.4,Sedán
+Kangoo,Plateado,Nafta,Manual,1.6,Furgón
+C4,Blanco,Nafta,Manual,1.6,Hatchback
+Polo,Dorado,Nafta,Automática,1.6,Hatchback
+Clase A,Negro,Nafta,Manual,1.6,Hatchback
+Polo,Dorado,Nafta,Automática,1.6,Hatchback
+Vento,Negro,Nafta/GNC,Automática,2.5,Sedán
+Journey,Negro,Nafta,Manual,3.6,SUV
+Tracker,Gris,Nafta,Automática,1.8,SUV
+Partner Patagónica,Blanco,Nafta,Manual,1.6,Monovolumen
+500,Negro,Nafta,Manual,1.4,Hatchback
+500,Marrón,Nafta,Manual,1.4,Hatchback
+HR-V,Violeta,Nafta,Automática,1.8,SUV
+Sandero Stepway,Blanco,Nafta,Automática,1.6,Hatchback
+Santa Fe,Gris,Nafta,Manual,2.4,SUV
+Tiguan Allspace,Gris,Nafta,Automática,1.4,SUV
+Ka,Gris,Nafta,Manual,1.0,Hatchback
+Duster,Blanco,Nafta,Manual,1.6,SUV
+Partner,Gris,Diésel,Manual,1.6,Furgón
+Amarok,Azul,Diésel,Automática,2.0,Pick-Up
+C-Elysée,Azul,Diésel,Manual,1.6,Sedán
+Duster Oroch,Blanco,Nafta,Manual,1.6,SUV
+Argo,Gris,Nafta,Manual,1.3,Hatchback
+Sentra,Negro,Nafta,Automática,2.0,Sedán
+Cronos,Blanco,Nafta,Manual,1.8,Sedán
+408,Gris,Diésel,Manual,1.6,Sedán
+Spin,Gris,Nafta/GNC,Manual,1.8,Monovolumen
+Kicks,Plateado,Nafta,Automática,1.6,Hatchback
+Aircross,Gris,Nafta,Manual,1.5,Hatchback
+Cruze,Gris,Nafta,Manual,1.8,Sedán
+Suran Cross,Gris,Nafta,Manual,1.6,Monovolumen
+CR-V,Celeste,Nafta,Automática,2.4,SUV
+Saveiro,Blanco,Nafta,Manual,1.6,Pick-Up
+Fit,Gris,Nafta,Manual,1.5,Hatchback
+Focus III,Gris,Nafta,Manual,1.6,Hatchback
+Fiesta Kinetic Design,Celeste,Nafta,Manual,1.6,Hatchback
+Toro,Rojo,Diésel,Automática,2.0,Pick-Up
+Gol Trend,Plateado,Nafta,Manual,1.6,Hatchback
+Ecosport,Plateado,Nafta,Manual,1.6,SUV
+Corolla,Gris,Nafta,Automática,1.8,Sedán
+Celta,Rojo,Nafta,Manual,1.4,Hatchback
+Serie 4,Negro,Nafta,Automática,2.0,Coupé
+Onix,Gris,Nafta/GNC,Manual,1.4,Hatchback
+Fiesta Kinetic Design,Gris,Nafta,Manual,1.6,Hatchback
+308,Azul,Nafta,Manual,2.0,Hatchback
+C3 Picasso,Blanco,Nafta,Manual,1.6,Hatchback
+Palio,Gris,Nafta,Manual,1.6,Rural
+SW4,Gris,Diésel,Automática,2.8,SUV
+1500,Rojo,Nafta,Automática,5.7,Pick-Up
+Taos,Gris,Nafta,Automática,1.4,SUV
+T-Cross,Gris,Nafta,Automática,1.6,SUV
+Focus III,Azul,Nafta,Manual,2.0,Sedán
+Ecosport,Blanco,Nafta,Automática,1.5,SUV
+Fiesta Kinetic Design,Gris,Nafta,Manual,1.6,Hatchback
+Passat,Blanco,Nafta,Automática,2.0,Sedán
+Palio,Negro,Nafta/GNC,Manual,1.4,Hatchback
+Santa Fe,Gris,Nafta,Manual,2.4,SUV
+Renegade,Rojo,Nafta,Automática,1.8,SUV
+Serie 1,Plateado,Nafta,Manual,2.0,Hatchback
+Amarok,Blanco,Diésel,Manual,2.0,Pick-Up
+C4 Cactus,Violeta,Nafta,Automática,1.2,SUV
+Sandero,Negro,Nafta,Manual,1.6,Hatchback
+Territory,Blanco,Nafta,Automática,1.5,SUV
+Onix,Rojo,Nafta/GNC,Manual,1.4,Hatchback
+Voyage,Azul,Nafta,Manual,1.6,Sedán
+Yaris,Blanco,Nafta,Manual,1.5,Hatchback
+Gol Trend,Blanco,Nafta,Manual,1.6,Hatchback
+Duster,Blanco,Nafta,Manual,1.6,SUV
+208,Gris,Nafta,Manual,1.6,Hatchback
+Duster,Negro,Nafta/GNC,Manual,2.0,SUV
+Fiesta Kinetic Design,Negro,Nafta,Manual,1.6,Hatchback
+Fit,Negro,Nafta,Manual,1.4,Hatchback
+L200,Gris,Diésel,Manual,3.2,Pick-Up
+C4 Spacetourer,Blanco,Nafta,Automática,1.6,Monovolumen
+Saveiro,Blanco,Nafta,Manual,1.6,Pick-Up
+DS4,Blanco,Nafta,Automática,1.6,Hatchback
+Hilux,Blanco,Diésel,Automática,2.8,Pick-Up
+Clase C,Plateado,Nafta,Automática,2.2,Sedán
+Sentra,Blanco,Nafta,Automática,2.0,Sedán
+308,Azul,Nafta,Manual,1.6,Hatchback
+Expert,Blanco,Diésel,Manual,2.0,Monovolumen
+Ecosport,Plateado,Nafta,Manual,1.6,SUV
+Fit,Blanco,Nafta,Manual,1.5,Hatchback
+Vento,Gris,Nafta,Automática,2.5,Sedán
+Polo,Gris,Nafta,Automática,1.6,Hatchback
+Clase GLA,Negro,Nafta,Automática,1.6,SUV
+Amarok,Blanco,Diésel,Manual,2.0,Pick-Up
+Fit,Blanco,Nafta,Manual,1.5,Hatchback
+Etios,Blanco,Nafta,Manual,1.5,Hatchback
+Duster Oroch,Blanco,Nafta,Manual,1.6,SUV
+Cruze,Plateado,Nafta,Manual,1.8,Sedán
+Vento,Plateado,Nafta,Automática,2.0,Sedán
+Polo,Gris,Nafta,Manual,1.6,Hatchback
+Kwid,Rojo,Nafta,Manual,1.0,Hatchback
+Mégane III,Azul,Nafta,Manual,1.6,Hatchback
+Corolla Cross,Negro,Híbrido/Nafta,Automática,1.8,SUV
+308,Blanco,Nafta,Manual,1.6,Hatchback
+Hilux,Plateado,Diésel,Automática,2.8,Pick-Up
+Tucson,Plateado,Nafta,Manual,2.0,SUV
+Focus III,Blanco,Nafta,Automática,2.0,Hatchback
+500,Azul,Nafta,Manual,1.4,Hatchback
+Trailblazer,Gris,Diésel,Automática,2.8,SUV
+Onix,Rojo,Nafta/GNC,Automática,1.4,Hatchback
+XV,Blanco,Nafta,Automática,2.0,Hatchback
+Hilux,Blanco,Diésel,Automática,2.8,Pick-Up
+Renegade,Gris,Nafta,Automática,1.8,SUV
+RAV4,Negro,Nafta,Automática,2.4,SUV
+Prisma,Negro,Nafta/GNC,Manual,1.4,Sedán
+A1,Gris,Nafta,Automática,1.4,Hatchback
+A3 Sportback,Blanco,Nafta,Automática,2.0,Hatchback
+308,Blanco,Nafta,Manual,1.6,Hatchback
+208,Negro,Nafta,Manual,1.6,Hatchback
+SW4,Negro,Diésel,Manual,3.0 TD,SUV
+Gol Trend,Gris,Nafta,Manual,1.6,Hatchback
+A4,Gris,Nafta,Automática,2.0,Sedán
+HR-V,Blanco,Nafta,Automática,1.8,SUV
+Suran,Plateado,Nafta,Manual,1.6,Monovolumen
+Fiesta Kinetic Design,Plateado,Nafta,Manual,1.6,Hatchback
+Amarok,Dorado,Diésel,Automática,2.0,Pick-Up
+408,Gris,Nafta,Automática,1.6,Sedán
+3008,Gris,Nafta,Automática,1.6,SUV
+Onix,Negro,Nafta,Manual,1.4,Hatchback
+Fiesta Kinetic Design,Violeta,Nafta,Manual,1.6,Hatchback
+Hilux,Gris,Diésel,Automática,2.8,Pick-Up
+Corolla,Marrón,Nafta,Automática,1.8,Sedán
+Tiguan Allspace,Gris,Nafta,Automática,1.4,SUV
+Saveiro,Gris,Nafta,Manual,1.6,Pick-Up
+C3,Blanco,Nafta,Manual,1.5,Hatchback
+Focus III,Rojo,Nafta,Automática,2.0,Hatchback
+C3,Blanco,Nafta,Manual,1.6,Hatchback
+308,Blanco,Nafta,Manual,1.6,Hatchback
+Gol Trend,Gris,Nafta,Manual,1.6,Hatchback
+Tracker,Gris,Nafta,Automática,1.8,SUV
+Duster,Plateado,Nafta,Manual,1.6,SUV
+Gol Trend,Gris,Nafta,Manual,1.6,Hatchback
+Ranger,Gris,Diésel,Automática,3.2,Pick-Up
+S10,Blanco,Diésel,Manual,2.8,Pick-Up
+Corolla,Negro,Nafta,Automática,1.8,Sedán
+Sandero,Blanco,Nafta,Automática,1.6,Hatchback
+5008,Gris,Nafta,Manual,1.6,Monovolumen
+Clase C,Azul,Nafta,Automática,3.0,Sedán
+Clase GLA,Gris,Nafta,Automática,1.6,SUV
+Fiesta Kinetic Design,Plateado,Nafta/GNC,Manual,1.6,Hatchback
+Up!,Gris,Nafta,Manual,1.0,Hatchback
+1500,Gris,Nafta,Automática,5.7,Pick-Up
+Renegade,Blanco,Nafta,Automática,1.8,SUV
+Serie 2,Celeste,Nafta,Automática,3.0,Coupé
+Vento,Blanco,Nafta,Manual,2.0,Sedán
+Golf,Blanco,Nafta,Automática,2.0,Hatchback
+Serie 3,Gris,Nafta,Manual,2.5,Coupé
+C4 Lounge,Blanco,Diésel,Manual,1.6,Sedán
+Amarok,Plateado,Diésel,Automática,2.0,Pick-Up
+Vento,Blanco,Nafta,Automática,2.5,Sedán
+Prisma,Celeste,Nafta,Manual,1.4,Sedán
+Sprinter,Blanco,Diésel,Manual,2.1,Minivan
+Fluence,Dorado,Nafta,Manual,1.6,Sedán
+Clio,Gris,Nafta,Manual,1.2,Hatchback
+Etios,Blanco,Nafta,Manual,1.5,Hatchback
+Polo,Blanco,Nafta,Automática,1.4,Hatchback
+Ranger,Blanco,Diésel,Manual,3.0,Pick-Up
+Gol Trend,Blanco,Nafta,Manual,1.6,Hatchback
+C4 Lounge,Gris,Nafta,Automática,1.6,Sedán
+Toro,Plateado,Diésel,Automática,2.0,Pick-Up
+Tiggo 3,Gris,Nafta,Manual,1.6,SUV
+Fluence,Blanco,Nafta,Manual,1.6,Sedán
+Ka,Rojo,Nafta,Manual,1.5,Hatchback
+Kangoo,Gris,Nafta,Manual,1.6,Furgón
+Swift,Gris,Nafta,Manual,1.5,Hatchback
+Focus III,Blanco,Nafta,Automática,2.0,Hatchback
+Hilux,Gris,Diésel,Automática,2.8,Pick-Up
+Taos,Gris,Nafta,Automática,1.4,SUV
+Sandero,Gris,Nafta,Manual,1.6,Hatchback
+Creta,Blanco,Nafta,Automática,1.6,SUV
+Focus III,Blanco,Nafta,Manual,1.6,Sedán
+Journey,Negro,Nafta,Manual,3.6,SUV
+Serie 1,Gris,Nafta,Manual,1.6,Hatchback
+1500,Blanco,Nafta,Automática,5.7,Pick-Up
+Captur,Naranja,Nafta,Manual,2.0,SUV
+Golf,Blanco,Nafta,Automática,2.0,Hatchback
+Renegade,Azul,Nafta,Automática,1.8,SUV
+Amarok,Blanco,Diésel,Manual,2.0,Pick-Up
+F-100,Gris,Diésel,Manual,2.5,Pick-Up
+Fit,Blanco,Nafta,Automática,1.5,Hatchback
+Santa Fe,Gris,Nafta,Automática,2.4,SUV
+Compass,Gris,Nafta,Manual,2.4,SUV
+Corolla,Blanco,Híbrido/Nafta,Automática,1.8,Sedán
+Territory,Dorado,Nafta,Automática,1.5,SUV
+Clio,Negro,Nafta,Manual,1.2,Hatchback
+Amarok,Blanco,Diésel,Automática,3.0,Pick-Up
+500X,Gris,Nafta,Automática,1.4,SUV
+Captur,Blanco,Nafta,Automática,1.6,SUV
+Cerato,Blanco,Nafta,Automática,2.0,Sedán
+208,Blanco,Nafta,Manual,1.5,Hatchback
+Kangoo,Gris,Nafta,Automática,1.6,Monovolumen
+Soul,Azul,Nafta,Automática,1.6,SUV
+Amarok,Gris,Diésel,Automática,2.0,Pick-Up
+Voyage,Gris,Nafta,Manual,1.6,Sedán
+Prisma,Blanco,Nafta,Manual,1.4,Sedán
+Sonic,Gris,Nafta,Manual,1.6,Hatchback
+Bora,Negro,Nafta,Manual,2.0,Sedán
+Tracker,Plateado,Nafta,Automática,1.8,SUV
+Ranger Raptor,Blanco,Diésel,Automática,2.0,Pick-Up
+1500,Blanco,Nafta,Automática,5.7,Pick-Up
+Focus III,Gris,Nafta,Automática,2.0,Hatchback
+308,Blanco,Nafta,Manual,1.6,Hatchback
+2008,Blanco,Nafta,Manual,1.6,SUV
+Onix,Gris,Nafta,Manual,1.4,Hatchback
+HR-V,Gris,Nafta,Automática,1.8,SUV
+T-Cross,Rojo,Nafta,Manual,1.6,SUV
+T-Cross,Gris,Nafta,Manual,1.6,SUV
+Amarok,Azul,Diésel,Manual,2.0,Pick-Up
+Clase A,Plateado,Nafta,Manual,1.6,Hatchback
+S10,Blanco,Diésel,Manual,2.8,Pick-Up
+Amarok,Blanco,Diésel,Manual,2.0,Pick-Up
+Tucson,Gris,Nafta,Manual,2.0,SUV
+Serie 2,Azul,Nafta,Automática,2.0,Coupé
+Clase A,Blanco,Nafta,Automática,2.0,Hatchback
+Toro,Plateado,Diésel,Manual,2.0,Pick-Up
+Corolla,Blanco,Nafta,Automática,1.8,Sedán
+F-150,Blanco,Diésel,Automática,2.0,Pick-Up
+Serie 2,Azul,Nafta,Automática,3.0,Coupé
+S3,Azul,Nafta,Automática,2.0,Hatchback
+R8 Coupé,Blanco,Nafta,Automática,5.2,Coupé
+C4 Lounge,Blanco,Nafta,Automática,1.6,Sedán
+HR-V,Blanco,Nafta,Automática,1.8,SUV
+Corolla,Blanco,Nafta,Automática,1.8,Sedán
+Vento,Gris,Nafta,Automática,2.0,Sedán
+Tracker,Blanco,Nafta,Manual,1.8,SUV
+Focus III,Blanco,Nafta/GNC,Manual,1.6,Sedán
+Sandero,Blanco,Nafta,Manual,1.6,Hatchback
+Gol Trend,Gris,Nafta,Manual,1.6,Hatchback
+Onix,Gris,Nafta,Automática,1.4,Hatchback
+Serie 3,Negro,Nafta,Manual,3.0,Coupé
+Gol,Gris,Nafta,Manual,1.4,Hatchback
+CR-V,Negro,Nafta,Automática,2.4,SUV
+Tiguan Allspace,Gris,Nafta,Automática,1.4,SUV
+Meriva,Gris,Nafta/GNC,Manual,1.8,Monovolumen
+Compass,Blanco,Nafta,Automática,2.4,SUV
+Onix,Rojo,Nafta,Manual,1.4,Hatchback
+Compass,Blanco,Nafta,Manual,2.4,SUV
+Corsa,Plateado,Nafta,Manual,1.6,Hatchback
+Territory,Blanco,Nafta,Automática,1.5,SUV
+308,Gris,Nafta,Automática,1.6,Hatchback
+C4 Cactus,Negro,Nafta,Automática,1.2,SUV
+Prisma,Negro,Nafta,Manual,1.4,Sedán
+Captur,Blanco,Nafta,Automática,2.0,SUV
+Berlingo,Gris,Diésel,Manual,1.6,Monovolumen
+Cooper Countryman,Azul,Nafta,Automática,1.6,Hatchback
+Ranger,Blanco,Diésel,Manual,2.2,Pick-Up
+Prisma,Negro,Nafta/GNC,Manual,1.4,Sedán
+Ka,Rojo,Nafta,Manual,1.5,Hatchback
+Vento,Gris,Nafta,Manual,2.0,Sedán
+Celta,Negro,Nafta/GNC,Manual,1.4,Hatchback
+Tiguan,Gris,Nafta,Automática,2.0,SUV
+SW4,Blanco,Diésel,Automática,2.8,SUV
+1500,Gris,Nafta,Automática,5.7,Pick-Up
+C30,Negro,Nafta,Manual,2.0,Hatchback
+DS3 Crossback,Azul,Nafta,Automática,1.2,Hatchback
+Tiguan Allspace,Gris,Nafta,Automática,1.4,SUV
+960,Gris,Nafta,Manual,3.0,Rural
+DS3 Crossback,Verde,Nafta,Automática,1.2,Hatchback
+Amarok,Azul,Diésel,Manual,2.0,Pick-Up
+Amarok,Negro,Diésel,Manual,2.0,Pick-Up
+Tiguan,Plateado,Diésel,Automática,2.0,SUV
+Territory,Blanco,Nafta,Automática,1.5,SUV
+Ecosport,Gris,Nafta,Manual,1.6,SUV
+T-Cross,Gris,Nafta,Automática,1.6,SUV
+Patriot,Negro,Nafta,Manual,2.0,SUV
+Nivus,Gris,Nafta,Automática,1.0,SUV
+T-Cross,Violeta,Nafta,Manual,1.6,SUV
+RAV4,Gris,Nafta,Automática,2.5,SUV
+Corolla,Negro,Nafta,Automática,1.8,Sedán
+Duster,Blanco,Nafta/GNC,Manual,1.6,SUV
+Cruze II,Blanco,Nafta,Manual,1.4,Sedán
+Compass,Plateado,Nafta,Automática,1.3,SUV
+Sprinter,Blanco,Diésel,Manual,2.1,Furgón
+Serie 3,Gris,Nafta,Manual,2.0,Sedán
+Fluence,Gris,Nafta,Manual,1.6,Sedán
+Compass,Blanco,Nafta,Automática,2.4,SUV
+R8 Coupé,Azul,Nafta,Automática,5.2,Coupé
+Outlander,Negro,Nafta,Automática,2.4,SUV
+DS4,Gris,Nafta,Automática,1.6,Hatchback
+Prisma,Blanco,Nafta,Manual,1.4,Sedán
+Duster,Gris,Nafta,Manual,1.6,SUV
+Duster Oroch,Blanco,Nafta,Manual,2.0,SUV
+Corolla,Plateado,Nafta,Automática,1.8,Sedán
+Aircross,Blanco,Nafta,Automática,1.6,Hatchback
+Tracker,Blanco,Nafta,Manual,1.2,SUV
+Logan,Negro,Nafta,Manual,1.6,Sedán
+Yaris,Blanco,Nafta,Automática,1.5,Sedán
+Cronos,Gris,Nafta,Manual,1.3,Sedán
+2008,Gris,Nafta,Manual,1.6,SUV
+Hilux,Gris,Diésel,Automática,2.8,Pick-Up
+Corolla,Plateado,Nafta,Manual,1.8,Sedán
+Tracker,Plateado,Nafta,Automática,1.2,SUV
+Berlingo,Plateado,Nafta,Manual,1.4,Furgón
+Journey,Negro,Nafta,Manual,3.6,SUV
+Onix,Plateado,Nafta,Manual,1.4,Hatchback
+Ka,Blanco,Nafta,Manual,1.5,Hatchback
+C4,Blanco,Nafta,Automática,2.0,Hatchback
+Golf,Blanco,Nafta,Automática,2.0,Hatchback
+Onix,Plateado,Nafta,Manual,1.4,Hatchback
+Sandero Stepway,Plateado,Nafta/GNC,Manual,1.6,Hatchback
+Grand Cherokee,Gris,Nafta,Automática,6.4,SUV
+Yaris,Blanco,Nafta,Manual,1.5,Sedán
+C3 Picasso,Negro,Nafta,Manual,1.6,Hatchback
+Passat,Gris,Nafta,Automática,2.0,Sedán
+Ka,Blanco,Nafta,Manual,1.5,Hatchback
+408,Negro,Nafta,Automática,2.0,Sedán
+208,Gris,Nafta,Automática,1.6,Hatchback
+Ecosport,Negro,Nafta,Manual,1.6,SUV
+Fiesta Kinetic Design,Azul,Nafta,Manual,1.6,Hatchback
+C3,Gris,Nafta,Manual,1.6,Hatchback
+Suran,Gris,Nafta,Manual,1.6,Monovolumen
+March,Rojo,Nafta,Manual,1.6,Hatchback
+208,Gris,Nafta,Manual,1.6,Hatchback
+Territory,Negro,Nafta,Automática,1.5,SUV
+Etios,Blanco,Nafta,Manual,1.5,Hatchback
+March,Gris,Nafta,Manual,1.6,Hatchback
+3008,Negro,Nafta,Manual,1.6,Monovolumen
+CR-V,Gris,Nafta,Automática,2.4,SUV
+Cruze,Gris,Nafta,Manual,1.8,Hatchback
+Tracker,Gris,Nafta,Automática,1.8,SUV
+Amarok,Gris,Diésel,Automática,3.0,Pick-Up
+2008,Blanco,Nafta,Manual,1.6,SUV
+Amarok,Gris,Diésel,Automática,3.0,Pick-Up
+Etios,Gris,Nafta,Manual,1.5,Hatchback
